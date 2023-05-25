@@ -1,0 +1,6 @@
+the instance will be put on 3 diferent subnet for high-availibilty
+instruction
+- install ansible on the server 
+- put the ansible yaml on playbook
+- run your ansible playbook
+*notes: makesure all vpc, subnet, security group and your account id can access the service
